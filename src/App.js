@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Mi propia pagina en AWS-React!
+          Mi propia pagina en AWS-React!!
         </p>
         <a
           className="App-link"
